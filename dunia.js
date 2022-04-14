@@ -1,10 +1,10 @@
 //saya adalah calon programer yang akan menguasai dunia
-console.log("hello world");
+// Menghapus hello world
 function main(callback){
   return callback();
 }
 function randomNumber(){
- console.log('nomor acak wkwk'); 
+ console.log('12 8u24 91u9u3'); 
 }
 
 const random = main(randomNumber);
