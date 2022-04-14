@@ -4,7 +4,8 @@ function main(callback){
   return callback();
 }
 function randomNumber(){
- console.log('nomor acak wkwk'); 
+ console.log('12 8u24 91u9u3'); 
 }
 
 const random = main(randomNumber);
+console.log(random);
