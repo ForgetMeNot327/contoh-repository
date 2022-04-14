@@ -8,3 +8,4 @@ function randomNumber(){
 }
 
 const random = main(randomNumber);
+console.log(random);
